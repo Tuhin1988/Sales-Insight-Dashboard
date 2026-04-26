@@ -20,6 +20,7 @@ This project presents an interactive Power BI dashboard designed to deliver comp
 
 ![Dashboard](images/Sales Insight Dashboard.png)
 ![Dashboard](images/Sale Dashboard.png)
+https://github.com/Tuhin1988/Sales-Insight-Dashboard/blob/main/Images/Sale%20Dashboard.png
 
 ---
 
